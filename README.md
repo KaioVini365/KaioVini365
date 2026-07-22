@@ -62,10 +62,7 @@
 
 ### 📈 Dados & Estatísticas
 
-<div align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=KaioVini365&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-</div>
-
-<div align="center">
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioVini365&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/KaioVini365?theme=dark">
+  <img alt="Linguagens Mais Utilizadas" src="https://github-used-languages.vercel.app/KaioVini365">
+</picture>
