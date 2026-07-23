@@ -39,8 +39,6 @@
 <p align="left">
   <img alt="HTML" title="HTML" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img alt="PHP" title="PHP" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 </p>
 
 #### Linguagens (Acadêmico)
@@ -48,6 +46,8 @@
 <p align="left">
   <img alt="C" title="C" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img alt="Java" title="Java" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img alt="PHP" title="PHP" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 </p>
 
 #### Ferramentas
