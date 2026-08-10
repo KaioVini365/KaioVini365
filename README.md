@@ -55,7 +55,6 @@
 <p align="left">
   <img alt="Git" title="Git" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="Unity" title="Unity" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 </p>
 
 ---
