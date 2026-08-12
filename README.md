@@ -42,7 +42,7 @@
 - Automatizo cadastros e classificações de SLA com VBA (UserForms) e fórmulas complexas no Excel
 
 **Fora do trabalho:**
-- Estudando Python (Pandas, NumPy, Seaborn, Plotly, Flet) e SQL (PostgreSQL) por conta própria, aplicando na prática problemas que já resolvia em Excel
+- Estudando Python (Pandas, NumPy, Seaborn, Plotly) e SQL (PostgreSQL) por conta própria, aplicando na prática problemas que já resolvia em Excel
 - Aluno de Sistemas de Informação na UVA — fundamentos de computação (C, C++, arquitetura, estrutura de dados) e desenvolvimento web (HTML/CSS/JS)
 - Meta de médio prazo: migrar para uma função de Programação e Análise de Dados
 
@@ -61,7 +61,7 @@
 <img style="margin: 8px" height="32" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
 </div>
 
-Power Query · Power BI · VBA (UserForms) · Pandas · NumPy · Seaborn · Plotly · Flet
+Power Query · Power BI · VBA (UserForms) · Pandas · NumPy · Seaborn · Plotly
 
 </td><td valign="top" width="33%">
 
