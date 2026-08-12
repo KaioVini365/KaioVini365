@@ -1,3 +1,14 @@
+<h1 align="center">Kaio Vinicius 👋</h1>
+
+<p align="center">
+  <strong>Administrativo em Controladoria · Migrando para Programação e Análise de Dados · Rio de Janeiro, RJ</strong>
+</p>
+
+<p align="center">
+  Automatizo processos financeiros com Excel/VBA e Power Query, e estou construindo o caminho para trabalhar com Python, SQL e dados em produção.<br/>
+  Cursando Sistemas de Informação (Universidade Veiga de Alemida) e buscando minha primeira oportunidade na área de dados.
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <!-- Gmail -->
@@ -23,45 +34,79 @@
 
 ---
 
-### Tecnologias & Ferramentas
+## O que eu faço
 
-#### Dados & Automação
+**Na ASSIST (Auxiliar Administrativo II — Controladoria):**
+- Construo pipelines em Power Query para consolidar arquivos de faturamento (ex.: Hapvida) que antes eram tratados manualmente
+- Desenvolvo dashboards em Power BI para acompanhamento de indicadores do setor
+- Automatizo cadastros e classificações de SLA com VBA (UserForms) e fórmulas complexas no Excel
 
+**Fora do trabalho:**
+- Estudando Python (Pandas, NumPy, Seaborn, Plotly, Flet) e SQL (PostgreSQL) por conta própria, aplicando na prática problemas que já resolvia em Excel
+- Aluno de Sistemas de Informação na UVA — fundamentos de computação (C, C++, arquitetura, estrutura de dados) e desenvolvimento web (HTML/CSS/JS)
+- Meta de médio prazo: migrar para uma função de Programação e Análise de Dados
+
+---
+
+## Tecnologias & Ferramentas
+
+<table>
+<tr><td valign="top" width="33%">
+
+### Dados & Automação
+<div align="left">
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+<img style="margin: 8px" height="32" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel/VBA" />
+<img style="margin: 8px" height="32" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+</div>
+
+Power Query · Power BI · VBA (UserForms) · Pandas · NumPy · Seaborn · Plotly · Flet
+
+</td><td valign="top" width="33%">
+
+### Desenvolvimento Web
+<div align="left">
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" />
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" />
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" />
+</div>
+
+HTML · CSS · JavaScript (fundamentos)
+
+</td><td valign="top" width="33%">
+
+### Fundamentos Acadêmicos
+<div align="left">
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
+<img style="margin: 8px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" />
+</div>
+
+C · C++ · Java · PHP · Arquitetura de Computadores · Estrutura de Dados
+
+</td></tr>
+</table>
+
+### Ferramentas
 <p align="left">
-  <img alt="Python" title="Python" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-  <img alt="Excel/VBA" title="Excel/VBA" width="40px" style="padding-right: 12px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
-  <img alt="Power BI" title="Power BI" width="40px" style="padding-right: 12px;" src="https://img.icons8.com/color/48/power-bi.png"/>
-</p>
-
-#### Desenvolvimento Web
-
-<p align="left">
-  <img alt="HTML" title="HTML" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS" title="CSS" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-</p>
-
-#### Linguagens (Acadêmico)
-
-<p align="left">
-  <img alt="C" title="C" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img alt="Java" title="Java" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img alt="PHP" title="PHP" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-</p>
-
-#### Ferramentas
-
-<p align="left">
-  <img alt="Git" title="Git" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img alt="Git" title="Git" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 </p>
 
 ---
 
-### 📈 Dados & Estatísticas
+## 📈 Dados & Estatísticas
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/KaioVini365?theme=dark">
   <img alt="Linguagens Mais Utilizadas" src="https://github-used-languages.vercel.app/KaioVini365">
 </picture>
+
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaioVini365&theme=onedark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaioVini365&theme=onedark" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=KaioVini365&style=flat-square" alt="Profile views" align="center"/>
