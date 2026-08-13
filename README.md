@@ -6,7 +6,7 @@
 
 <p align="center">
   Automatizo processos financeiros com Excel/VBA e Power Query, e estou construindo o caminho para trabalhar com Python, SQL e dados em produção.<br/>
-  Cursando Sistemas de Informação (Universidade Veiga de Alemida) e buscando minha primeira oportunidade na área de dados.
+  Cursando Sistemas de Informação (Universidade Veiga de Almeida) e buscando minha primeira oportunidade na área de dados.
 </p>
 
 <!-- Social icons section -->
@@ -42,7 +42,7 @@
 - Automatizo cadastros e classificações de SLA com VBA (UserForms) e fórmulas complexas no Excel
 
 **Fora do trabalho:**
-- Estudando Python (Pandas, NumPy, Seaborn, Plotly) e SQL (PostgreSQL) por conta própria, aplicando na prática problemas que já resolvia em Excel
+- Estudando Python (Pandas, NumPy, Seaborn, Plotly) e SQL (PostgreSQL), aplicando na prática problemas que já resolvia em Excel
 - Aluno de Sistemas de Informação na UVA — fundamentos de computação (C, C++, arquitetura, estrutura de dados) e desenvolvimento web (HTML/CSS/JS)
 - Meta de médio prazo: migrar para uma função de Programação e Análise de Dados
 
